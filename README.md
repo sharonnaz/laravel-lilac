@@ -23,14 +23,28 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Installation
 
-## clone the repo
+## Clone the repo
 git clone https://github.com/sharonnaz/laravel-lilac.git
 
-## install composer dependency
+## Install composer dependency
 composer install
 
-## create a environment file
+## Create environment file
 cp .env.example .env
 
 ## set application key
 php artisan key:generate
+
+## Setup .env
+Update database credentials
+
+## Migrate tables and seed
+php artisan migrate:fresh --seed
+
+## Run server
+php artisan serve 
+
+## Output
+http://127.0.0.1:8000
+
+
