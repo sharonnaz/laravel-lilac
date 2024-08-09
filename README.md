@@ -24,7 +24,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Installation
 
 ## clone the repo
-git clone https://github.com/devzakir/laravel-complete-blog-development.git laravel-blog
+git clone https://github.com/sharonnaz/laravel-lilac.git
 
 ## install composer dependency
 composer install
