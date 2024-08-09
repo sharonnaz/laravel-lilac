@@ -27,6 +27,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 git clone https://github.com/sharonnaz/laravel-lilac.git
 
 ## Install composer dependency
+cd to project folder
 composer install
 
 ## Create environment file
